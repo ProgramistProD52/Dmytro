@@ -1,0 +1,31 @@
+header{ 
+    background-color: #7AF900 ;
+    display: flex;
+}
+header img{
+    width: 100px;
+    height:100px;
+    float: right;
+    background-color: #7AF900;
+
+}
+main{
+    background-color: #28E88C;
+}
+h2{
+    font-size: 10;
+    text-align: center;
+}
+main img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    
+}
+footer{
+    background-color: #D5FB00;
+}
+
+
+
